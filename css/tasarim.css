@@ -1,0 +1,35 @@
+.arka-plan {
+    background-color: #282A3A;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace, serif;
+    font-size: 20px;
+    color: #8b733b;
+}
+
+h1 {
+    color: #dfdfdf;
+    font-size: 36px;
+}
+
+h2 {
+    color: #c08804;
+    font-size:30px;
+}
+
+h3 {
+    color: #e7c168;
+    font-size:27px;
+}
+
+.paragraf {
+    text-align: justify;
+}
+
+a {
+    color: #dbb06a;
+    font-size: 24px;
+}
+
+li {
+    list-style-position: inside;
+}
